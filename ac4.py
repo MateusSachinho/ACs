@@ -1,4 +1,7 @@
+"""
+Aluno: Mateus de Macedo Coelho Sachinho | 202403184672
 
+"""
 def ler_nome_usuario():
     return input("Informe o seu nome: ")
 
@@ -42,6 +45,7 @@ def duas_maiores_notas(ap1, ap2, asub):
         return asub, ap2
 
     return ap1, ap2
+
 
 
 def calcular_media(n1, n2, ac):
