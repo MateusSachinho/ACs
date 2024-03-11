@@ -1,5 +1,5 @@
 """
-Aluno: Mateus de Macedo Coleho Sachinho
+Aluno: Mateus de Macedo Coelho Sachinho
 
 Matrícula: 202403184672
 
